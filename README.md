@@ -1,4 +1,4 @@
-# Anticordium-Discord-Bot
+# LuniAssist Discord-bot
 Multifunctional Discord bot with ChatGPT support
 
 Functions:
