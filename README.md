@@ -1,7 +1,7 @@
 # LuniAssist Discord-bot
 Multifunctional Discord bot for Relenova Roleplay.
 
-# Features:
+## Features:
 - AI-Tools (DALL-E 2/3, ChatGPT).
 - System of passports.
 - System of wikipedia (reading .txt files with text with support of 2000+ symbols)
