@@ -8,5 +8,3 @@ Multifunctional Discord bot for Relenova Roleplay.
 - Economy system
 - RP-questionnaire system
 - ~~System of passports.~~
-
-![Запись_2023_06_21_14_34_32_93](https://github.com/NobleEpuz/Anticordium-Discord-Bot/assets/99038073/88f195cb-488b-4ee0-9e16-330304d7243e)
